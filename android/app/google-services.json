@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "129082443739",
+    "project_id": "covidprotocol-6751a",
+    "storage_bucket": "covidprotocol-6751a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129082443739:android:43032672d838972bdf49fe",
+        "android_client_info": {
+          "package_name": "com.example.mini_project2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-gZdCrgN9KzSjN1h5hnuAlyO1_Bcvs_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
